@@ -41,6 +41,13 @@ yarn
 yarn dev
 ```
 
+在弹出页面输入：输入api KEY (去官网注册获取)，只有免费125张图，按10美元5000张图片付费
+```bash
+yarn dev:use-example-plugin
+```
+后面就能进入正常页面
+
+
 _**That's it! 🎉**_
 
 StableStudio will be running at [localhost:3000](http://localhost:3000) by default.
