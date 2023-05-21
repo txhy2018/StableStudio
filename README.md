@@ -25,10 +25,16 @@ You'll need to have [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg
 
 Once that's done, you can run the following commands...
 
+在安装node.js、npm基础上，安装yarn：
+
+- $ npm install -g yarn
+- $ yarn --version
+
 ```bash
 git clone https://github.com/Stability-AI/StableStudio.git
 
 cd StableStudio
+
 
 yarn
 
